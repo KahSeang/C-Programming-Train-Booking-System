@@ -1,0 +1,36 @@
+﻿  oooo.c
+  testing.c
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(223,14): warning C4013: 'isalpha' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(220,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(241,13): warning C4013: 'isupper' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(244,18): warning C4013: 'islower' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(247,18): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(234,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(260,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(276,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(319,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(336,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(403,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void (__cdecl *)()'
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(411,21): warning C4101: 'schedule': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(585,20): warning C4013: 'checkTrainIDExists' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(641,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(644,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(932,21): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(1892,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2003,11): warning C4101: 'price': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2004,21): warning C4101: 'currentSchedule': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2002,37): warning C4101: 'numTickets': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2415,41): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2415,41):
+  placeholders and their parameters expect 9 variadic arguments, but 10 were provided
+  
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2298,18): warning C4101: 'fp': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2529,9): warning C4033: 'restoreSeat' must return a value
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2535,9): warning C4033: 'restoreSeat' must return a value
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2645,16): warning C4101: 'a': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2643,126): warning C4101: 'ans': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2642,20): warning C4101: 'currentBooking': unreferenced local variable
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2644,37): warning C4101: 'numTickets': unreferenced local variable
+  Generating Code...
+C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\Asgm testing y1s3\testing.c(2638,1): warning C4715: 'restoreSeat': not all control paths return a value
+  Asgm testing y1s3.vcxproj -> C:\Users\acer\Desktop\TARUMT\DFT Y1S3\PCD2\AACS1084_Group8_OngWengKang\Asgm_PCD2_FinalVersion\Asgm testing y1s3\x64\Debug\Asgm testing y1s3.exe
